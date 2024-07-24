@@ -32,3 +32,94 @@ Feature: To test my DBB framework
     Examples:
       | browser | URL     |
       | browser | TestURL |
+
+
+  @ChemicalCode
+  Scenario Outline: Find the chemical element count
+    Given User needs to find the chemical element count for "<Checmical Formulae>"
+
+    Examples:
+      | Checmical Formulae |
+      | Mg((OH)2He)4HeNO2       |
+
+  @ChemicalCode1
+  Scenario Outline: Find the chemical element count
+    Given User needs to find the chemical element count for "<Checmical Formulae>"
+
+    Examples:
+      | Checmical Formulae |
+      | Mg((OH)2He)4HeNO2       |
+
+  @ChemicalCode2
+  Scenario Outline: Find the chemical element count
+    Given User needs to find the chemical element count for "<Checmical Formulae>"
+
+    Examples:
+      | Checmical Formulae |
+      | Mg((OH)2He)4HeNO2       |
+
+  @ChemicalCode3
+  Scenario Outline: Find the chemical element count
+    Given User needs to find the chemical element count for "<Checmical Formulae>"
+
+    Examples:
+      | Checmical Formulae |
+      | Mg((OH)2He)4HeNO2       |
+
+
+
+  @Pojo
+  Scenario Outline: Find the chemical element count
+    Given Test my POJO
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
+
+
+
+  @jdbcConnection
+  Scenario Outline: JDBC Connection
+    Given Connecting to MySQL Using the JDBC DriverManager Interface
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
+
+
+
+  @Duplicates
+  Scenario Outline: Find Duplicates in an Array
+    Given Find Duplicates in an Array
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
+
+
+
+  @Docker
+  Scenario Outline: Docker testing
+    Given To test my docker knowledge
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
+
+
+  @naukri
+  Scenario Outline: Run naukri.com profile
+    Given Run my naukri.com profile
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
+
+
+  @batFileBasic
+  Scenario Outline: BatFile Runs
+    Given BAT file executions for docker up
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |

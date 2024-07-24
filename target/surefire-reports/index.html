@@ -103,7 +103,7 @@
                     <div class="method-list-content passed suite-Surefire_suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Surefire_suite" title="com.example.runner.testNGtestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Testcase 2&quot;, &quot;To test my DBB framework&quot;)">runScenario("Testcase 2", "To test my DBB framework")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Surefire_suite" title="com.example.runner.testNGtestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;Docker testing&quot;, &quot;To test my DBB framework&quot;)">runScenario("Docker testing", "To test my DBB framework")</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Surefire_suite -->
@@ -126,10 +126,10 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="runScenario(&quot;Testcase 2&quot;, &quot;To test my DBB framework&quot;)">
-                  </a> <!-- runScenario("Testcase 2", "To test my DBB framework") -->
+                  <a name="runScenario(&quot;Docker testing&quot;, &quot;To test my DBB framework&quot;)">
+                  </a> <!-- runScenario("Docker testing", "To test my DBB framework") -->
                   <span class="method-name">runScenario</span>
-                  <span class="parameters">("Testcase 2","To test my DBB framework")</span>
+                  <span class="parameters">("Docker testing","To test my DBB framework")</span>
                   <em>
 (Runs Cucumber Scenarios)                  </em>
                 </div> <!-- method-content -->
@@ -199,12 +199,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'runScenario')
 data.setCell(0, 2, 'com.example.runner.testNGtestRunner')
-data.setCell(0, 3, 5473);
+data.setCell(0, 3, 39872);
 window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 5 seconds</span>
+              <span class="suite-total-time">Total running time: 39 seconds</span>
               <div id="times-div-Surefire_suite">
               </div> <!-- times-div-Surefire_suite -->
             </div> <!-- times-div -->
@@ -231,18 +231,26 @@ return data;
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
               <div class="chronological-class-name">com.example.runner.testNGtestRunner</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setUpClass(org.testng.TestRunner@2db2a05f)</span>
+              <div class="configuration-test before">
+                <span class="method-name">startNodes</span>
                 <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-class before">
+                <span class="method-name">setUpClass(org.testng.TestRunner@7d2c9361)</span>
+                <span class="method-start">1263 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">runScenario("Testcase 2", "To test my DBB framework")</span>
-                <span class="method-start">550 ms</span>
+                <span class="method-name">runScenario("Docker testing", "To test my DBB framework")</span>
+                <span class="method-start">2959 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDownClass</span>
-                <span class="method-start">6031 ms</span>
+                <span class="method-start">42840 ms</span>
               </div> <!-- configuration-class after -->
+              <div class="configuration-test after">
+                <span class="method-name">stopNodes</span>
+                <span class="method-start">43881 ms</span>
+              </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
