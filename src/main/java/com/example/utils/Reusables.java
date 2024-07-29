@@ -14,7 +14,7 @@ import java.time.Duration;
 
 public class Reusables {
 
-    static final Logger LogCapture = LogManager.getLogger(Reusables.class);
+    public static final Logger LogCapture = LogManager.getLogger(Reusables.class);
 
 
     public String openBrowser(String data, String value) {
@@ -34,7 +34,7 @@ public class Reusables {
     public String click(String data, String value) {
         try {
             LogCapture.info("click method called");
-            Constants.driver.close();
+            Constants.driver.findElement(By.xpath(data)).click();
             LogCapture.info("click method executed");
             return Constants.PassedBlock;
         } catch (Exception e) {
@@ -78,6 +78,19 @@ public class Reusables {
             return Constants.PassedBlock;
         } catch (Exception e) {
             LogCapture.error("navigateToURL method failed");
+            return Constants.FailedBlock;
+        }
+    }
+
+    public String writeToElement(String data, String value) {
+        try {
+            LogCapture.info("writeToElement method called");
+            visibleWaitCondition(data,"10");
+            Constants.driver.findElement(By.xpath(data)).sendKeys(value);
+            LogCapture.info("writeToElement method executed");
+            return Constants.PassedBlock;
+        } catch (Exception e) {
+            LogCapture.error("writeToElement method failed");
             return Constants.FailedBlock;
         }
     }
