@@ -40,7 +40,7 @@ agent any
 
 			steps{
 
-				bat "mvn test"
+				bat "mvn clean"
 
 			}
 
@@ -53,7 +53,7 @@ agent any
 
 			steps{
 
-				bat "mvn compile"
+				bat "mvn clean"
 
 			}
 
