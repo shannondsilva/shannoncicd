@@ -1,0 +1,804 @@
+failed to get console mode for stdout: The handle is invalid.
+[1A[1B[0G[?25l[+] Running 1/0
+ [32m✔[0m Network testmvnshannon_default  [32mCreated[0m[34m0.1s [0m
+ - Container selenium-hub          [39mCreating[0m[34m0.0s [0m
+[?25h[1A[1A[1A[0G[?25l[34m[+] Running 2/2[0m
+ [32m✔[0m Network testmvnshannon_default      [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container selenium-hub              [32mCreated[0m[34m0.1s [0m
+ - Container testmvnshannon-firefox-1  [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-chrome-5   [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-edge-5     [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-chrome-1   [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-chrome-2   [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-edge-1     [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-chrome-3   [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-edge-2     [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-chrome-4   [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-edge-4     [39mCreating[0m[34m0.0s [0m
+ - Container testmvnshannon-edge-3     [39mCreating[0m[34m0.0s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 2/13
+ [32m✔[0m Network testmvnshannon_default      [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container selenium-hub              [32mCreated[0m[34m0.1s [0m
+ - Container testmvnshannon-firefox-1  [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-chrome-5   [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-edge-5     [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-chrome-1   [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-chrome-2   [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-edge-1     [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-chrome-3   [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-edge-2     [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-chrome-4   [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-edge-4     [39mCreating[0m[34m0.1s [0m
+ - Container testmvnshannon-edge-3     [39mCreating[0m[34m0.1s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 2/13
+ [32m✔[0m Network testmvnshannon_default      [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container selenium-hub              [32mCreated[0m[34m0.1s [0m
+ - Container testmvnshannon-firefox-1  [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-chrome-5   [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-edge-5     [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-chrome-1   [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-chrome-2   [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-edge-1     [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-chrome-3   [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-edge-2     [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-chrome-4   [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-edge-4     [39mCreating[0m[34m0.2s [0m
+ - Container testmvnshannon-edge-3     [39mCreating[0m[34m0.2s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[+] Running 11/13
+ [32m✔[0m Network testmvnshannon_default      [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container selenium-hub              [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container testmvnshannon-firefox-1  [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-5   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-5     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-1   [32mCreated[0m[34m0.3s [0m
+ - Container testmvnshannon-chrome-2   [39mCreating[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-1     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-3   [32mCreated[0m[34m0.3s [0m
+ - Container testmvnshannon-edge-2     [39mCreating[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-4   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-4     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-3     [32mCreated[0m[34m0.3s [0m
+[?25h[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[1A[0G[?25l[34m[+] Running 13/13[0m
+ [32m✔[0m Network testmvnshannon_default      [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container selenium-hub              [32mCreated[0m[34m0.1s [0m
+ [32m✔[0m Container testmvnshannon-firefox-1  [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-5   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-5     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-1   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-2   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-1     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-3   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-2     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-chrome-4   [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-4     [32mCreated[0m[34m0.3s [0m
+ [32m✔[0m Container testmvnshannon-edge-3     [32mCreated[0m[34m0.3s [0m
+[?25hAttaching to selenium-hub, testmvnshannon-chrome-1, testmvnshannon-chrome-2, testmvnshannon-chrome-3, testmvnshannon-chrome-4, testmvnshannon-chrome-5, testmvnshannon-edge-1, testmvnshannon-edge-2, testmvnshannon-edge-3, testmvnshannon-edge-4, testmvnshannon-edge-5, testmvnshannon-firefox-1
+selenium-hub              | 2024-07-24 05:39:03,323 INFO Included extra file "/etc/supervisor/conf.d/selenium-grid-hub.conf" during parsing
+selenium-hub              | 2024-07-24 05:39:03,331 INFO RPC interface 'supervisor' initialized
+selenium-hub              | 2024-07-24 05:39:03,331 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+selenium-hub              | 2024-07-24 05:39:03,332 INFO supervisord started with pid 8
+testmvnshannon-firefox-1  | 2024-07-24 05:39:03,795 INFO Included extra file "/etc/supervisor/conf.d/firefox-cleanup.conf" during parsing
+testmvnshannon-firefox-1  | 2024-07-24 05:39:03,795 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-firefox-1  | 2024-07-24 05:39:03,801 INFO RPC interface 'supervisor' initialized
+testmvnshannon-firefox-1  | 2024-07-24 05:39:03,802 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-firefox-1  | 2024-07-24 05:39:03,804 INFO supervisord started with pid 9
+testmvnshannon-edge-2     | 2024-07-24 05:39:04,222 INFO Included extra file "/etc/supervisor/conf.d/edge-cleanup.conf" during parsing
+testmvnshannon-edge-2     | 2024-07-24 05:39:04,222 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-edge-2     | 2024-07-24 05:39:04,228 INFO RPC interface 'supervisor' initialized
+testmvnshannon-edge-2     | 2024-07-24 05:39:04,229 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-edge-2     | 2024-07-24 05:39:04,231 INFO supervisord started with pid 8
+testmvnshannon-chrome-4   | 2024-07-24 05:39:04,235 INFO Included extra file "/etc/supervisor/conf.d/chrome-cleanup.conf" during parsing
+testmvnshannon-chrome-4   | 2024-07-24 05:39:04,235 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-chrome-4   | 2024-07-24 05:39:04,241 INFO RPC interface 'supervisor' initialized
+testmvnshannon-chrome-4   | 2024-07-24 05:39:04,241 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-chrome-4   | 2024-07-24 05:39:04,243 INFO supervisord started with pid 8
+selenium-hub              | 2024-07-24 05:39:04,335 INFO spawned: 'selenium-grid-hub' with pid 9
+selenium-hub              | Appending Selenium options: --reject-unsupported-caps false
+selenium-hub              | 2024-07-24 05:39:04,347 INFO success: selenium-grid-hub entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+selenium-hub              | Tracing is disabled
+testmvnshannon-firefox-1  | 2024-07-24 05:39:04,807 INFO spawned: 'xvfb' with pid 10
+testmvnshannon-firefox-1  | 2024-07-24 05:39:04,819 INFO spawned: 'vnc' with pid 11
+testmvnshannon-firefox-1  | 2024-07-24 05:39:04,822 INFO spawned: 'novnc' with pid 12
+testmvnshannon-firefox-1  | 2024-07-24 05:39:04,825 INFO spawned: 'selenium-node' with pid 13
+testmvnshannon-firefox-1  | 2024-07-24 05:39:04,863 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:05,056 INFO Included extra file "/etc/supervisor/conf.d/chrome-cleanup.conf" during parsing
+testmvnshannon-chrome-2   | 2024-07-24 05:39:05,056 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-chrome-2   | 2024-07-24 05:39:05,071 INFO RPC interface 'supervisor' initialized
+testmvnshannon-chrome-2   | 2024-07-24 05:39:05,071 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-chrome-2   | 2024-07-24 05:39:05,075 INFO supervisord started with pid 8
+testmvnshannon-edge-2     | 2024-07-24 05:39:05,234 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-edge-2     | 2024-07-24 05:39:05,237 INFO spawned: 'vnc' with pid 10
+testmvnshannon-chrome-4   | 2024-07-24 05:39:05,249 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-edge-2     | 2024-07-24 05:39:05,243 INFO spawned: 'novnc' with pid 11
+testmvnshannon-edge-2     | 2024-07-24 05:39:05,247 INFO spawned: 'selenium-node' with pid 13
+testmvnshannon-edge-3     | 2024-07-24 05:39:05,249 INFO Included extra file "/etc/supervisor/conf.d/edge-cleanup.conf" during parsing
+testmvnshannon-edge-3     | 2024-07-24 05:39:05,249 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-chrome-4   | 2024-07-24 05:39:05,252 INFO spawned: 'vnc' with pid 10
+testmvnshannon-edge-2     | 2024-07-24 05:39:05,256 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:05,256 INFO spawned: 'novnc' with pid 11
+testmvnshannon-chrome-4   | 2024-07-24 05:39:05,260 INFO spawned: 'selenium-node' with pid 12
+testmvnshannon-edge-3     | 2024-07-24 05:39:05,255 INFO RPC interface 'supervisor' initialized
+testmvnshannon-edge-3     | 2024-07-24 05:39:05,256 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-edge-3     | 2024-07-24 05:39:05,264 INFO supervisord started with pid 8
+testmvnshannon-chrome-4   | 2024-07-24 05:39:05,273 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-firefox-1  | Appending Selenium options: --session-timeout 300
+testmvnshannon-firefox-1  | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-firefox-1  | Generating Selenium Config
+testmvnshannon-edge-2     | Appending Selenium options: --session-timeout 300
+testmvnshannon-edge-2     | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-edge-2     | Generating Selenium Config
+testmvnshannon-firefox-1  | Configuring server...
+testmvnshannon-firefox-1  | Setting up SE_NODE_HOST...
+testmvnshannon-firefox-1  | Setting up SE_NODE_PORT...
+testmvnshannon-firefox-1  | Setting up SE_NODE_GRID_URL...
+testmvnshannon-edge-2     | Configuring server...
+testmvnshannon-edge-2     | Setting up SE_NODE_HOST...
+testmvnshannon-edge-2     | Setting up SE_NODE_PORT...
+testmvnshannon-edge-2     | Setting up SE_NODE_GRID_URL...
+testmvnshannon-chrome-4   | Appending Selenium options: --session-timeout 300
+testmvnshannon-chrome-4   | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-chrome-4   | Generating Selenium Config
+testmvnshannon-chrome-4   | Configuring server...
+testmvnshannon-chrome-4   | Setting up SE_NODE_HOST...
+testmvnshannon-chrome-4   | Setting up SE_NODE_PORT...
+testmvnshannon-chrome-4   | Setting up SE_NODE_GRID_URL...
+testmvnshannon-edge-2     | Tracing is disabled
+testmvnshannon-edge-2     | Selenium Grid Node configuration: 
+testmvnshannon-chrome-1   | 2024-07-24 05:39:05,677 INFO Included extra file "/etc/supervisor/conf.d/chrome-cleanup.conf" during parsing
+testmvnshannon-chrome-1   | 2024-07-24 05:39:05,677 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-edge-2     | [events]
+testmvnshannon-edge-2     | publish = "tcp://selenium-hub:4442"
+testmvnshannon-edge-2     | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-edge-2     | 
+testmvnshannon-edge-2     | [node]
+testmvnshannon-edge-2     | session-timeout = "300"
+testmvnshannon-edge-2     | override-max-sessions = false
+testmvnshannon-edge-2     | detect-drivers = false
+testmvnshannon-edge-2     | drain-after-session-count = 0
+testmvnshannon-edge-2     | max-sessions = 1
+testmvnshannon-edge-2     | 
+testmvnshannon-edge-2     | [[node.driver-configuration]]
+testmvnshannon-edge-2     | display-name = "MicrosoftEdge"
+testmvnshannon-edge-2     | stereotype = '{"browserName": "MicrosoftEdge", "browserVersion": "128.0", "platformName": "Linux", "ms:edgeOptions": {"binary": "/usr/bin/microsoft-edge"}}'
+testmvnshannon-edge-2     | max-sessions = 1
+testmvnshannon-edge-2     |     
+testmvnshannon-chrome-1   | 2024-07-24 05:39:05,684 INFO RPC interface 'supervisor' initialized
+testmvnshannon-firefox-1  | Tracing is disabled
+testmvnshannon-firefox-1  | Selenium Grid Node configuration: 
+testmvnshannon-chrome-1   | 2024-07-24 05:39:05,684 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-edge-2     | Starting Selenium Grid Node...
+testmvnshannon-chrome-1   | 2024-07-24 05:39:05,689 INFO supervisord started with pid 9
+testmvnshannon-firefox-1  | [events]
+testmvnshannon-firefox-1  | publish = "tcp://selenium-hub:4442"
+testmvnshannon-firefox-1  | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-firefox-1  | 
+testmvnshannon-firefox-1  | [node]
+testmvnshannon-firefox-1  | session-timeout = "300"
+testmvnshannon-firefox-1  | override-max-sessions = false
+testmvnshannon-firefox-1  | detect-drivers = false
+testmvnshannon-firefox-1  | drain-after-session-count = 0
+testmvnshannon-firefox-1  | max-sessions = 1
+testmvnshannon-firefox-1  | 
+testmvnshannon-firefox-1  | [[node.driver-configuration]]
+testmvnshannon-firefox-1  | display-name = "firefox"
+testmvnshannon-firefox-1  | stereotype = '{"browserName": "firefox", "browserVersion": "130.0", "platformName": "Linux", "moz:firefoxOptions": {"binary": "/usr/bin/firefox"}}'
+testmvnshannon-firefox-1  | max-sessions = 1
+testmvnshannon-firefox-1  |     
+testmvnshannon-firefox-1  | Starting Selenium Grid Node...
+testmvnshannon-chrome-4   | Tracing is disabled
+testmvnshannon-chrome-4   | Selenium Grid Node configuration: 
+testmvnshannon-chrome-4   | [events]
+testmvnshannon-chrome-4   | publish = "tcp://selenium-hub:4442"
+testmvnshannon-chrome-4   | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-chrome-4   | 
+testmvnshannon-chrome-4   | [node]
+testmvnshannon-chrome-4   | session-timeout = "300"
+testmvnshannon-chrome-4   | override-max-sessions = false
+testmvnshannon-chrome-4   | detect-drivers = false
+testmvnshannon-chrome-4   | drain-after-session-count = 0
+testmvnshannon-chrome-4   | max-sessions = 1
+testmvnshannon-chrome-4   | 
+testmvnshannon-chrome-4   | [[node.driver-configuration]]
+testmvnshannon-chrome-4   | display-name = "chrome"
+testmvnshannon-chrome-4   | stereotype = '{"browserName": "chrome", "browserVersion": "128.0", "platformName": "Linux", "goog:chromeOptions": {"binary": "/usr/bin/google-chrome"}}'
+testmvnshannon-chrome-4   | max-sessions = 1
+testmvnshannon-chrome-4   |     
+testmvnshannon-chrome-4   | Starting Selenium Grid Node...
+selenium-hub              | 05:39:05.729 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+selenium-hub              | 05:39:05.753 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-edge-4     | 2024-07-24 05:39:05,915 INFO Included extra file "/etc/supervisor/conf.d/edge-cleanup.conf" during parsing
+testmvnshannon-edge-4     | 2024-07-24 05:39:05,915 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-edge-4     | 2024-07-24 05:39:05,920 INFO RPC interface 'supervisor' initialized
+testmvnshannon-edge-4     | 2024-07-24 05:39:05,920 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-edge-4     | 2024-07-24 05:39:05,923 INFO supervisord started with pid 7
+testmvnshannon-firefox-1  | 2024-07-24 05:39:05,978 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-firefox-1  | 2024-07-24 05:39:05,978 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-firefox-1  | 2024-07-24 05:39:05,978 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:06,080 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-chrome-2   | 2024-07-24 05:39:06,085 INFO spawned: 'vnc' with pid 10
+testmvnshannon-chrome-2   | 2024-07-24 05:39:06,088 INFO spawned: 'novnc' with pid 13
+testmvnshannon-chrome-2   | 2024-07-24 05:39:06,090 INFO spawned: 'selenium-node' with pid 15
+testmvnshannon-chrome-2   | 2024-07-24 05:39:06,113 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+selenium-hub              | 05:39:06.154 INFO [BoundZmqEventBus.<init>] - XPUB binding to [binding to tcp://*:4442, advertising as tcp://172.19.0.2:4442], XSUB binding to [binding to tcp://*:4443, advertising as tcp://172.19.0.2:4443]
+testmvnshannon-edge-3     | 2024-07-24 05:39:06,267 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-edge-3     | 2024-07-24 05:39:06,269 INFO spawned: 'vnc' with pid 10
+testmvnshannon-edge-3     | 2024-07-24 05:39:06,273 INFO spawned: 'novnc' with pid 11
+testmvnshannon-edge-3     | 2024-07-24 05:39:06,292 INFO spawned: 'selenium-node' with pid 13
+testmvnshannon-edge-3     | 2024-07-24 05:39:06,296 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:06,363 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:06,364 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:06,364 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-2     | 2024-07-24 05:39:06,393 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-2     | 2024-07-24 05:39:06,393 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-2     | 2024-07-24 05:39:06,393 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+selenium-hub              | 05:39:06.418 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://172.19.0.2:4442 and tcp://172.19.0.2:4443
+testmvnshannon-chrome-2   | Appending Selenium options: --session-timeout 300
+testmvnshannon-chrome-2   | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-chrome-2   | Generating Selenium Config
+testmvnshannon-chrome-2   | Configuring server...
+testmvnshannon-chrome-2   | Setting up SE_NODE_HOST...
+testmvnshannon-chrome-2   | Setting up SE_NODE_PORT...
+testmvnshannon-chrome-2   | Setting up SE_NODE_GRID_URL...
+selenium-hub              | 05:39:06.606 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-chrome-2   | Tracing is disabled
+testmvnshannon-chrome-2   | Selenium Grid Node configuration: 
+testmvnshannon-chrome-2   | [events]
+testmvnshannon-chrome-2   | publish = "tcp://selenium-hub:4442"
+testmvnshannon-chrome-2   | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-chrome-2   | 
+testmvnshannon-chrome-2   | [node]
+testmvnshannon-chrome-2   | session-timeout = "300"
+testmvnshannon-chrome-2   | override-max-sessions = false
+testmvnshannon-chrome-2   | detect-drivers = false
+testmvnshannon-chrome-2   | drain-after-session-count = 0
+testmvnshannon-chrome-2   | max-sessions = 1
+testmvnshannon-chrome-2   | 
+testmvnshannon-chrome-2   | [[node.driver-configuration]]
+testmvnshannon-chrome-2   | display-name = "chrome"
+testmvnshannon-chrome-2   | stereotype = '{"browserName": "chrome", "browserVersion": "128.0", "platformName": "Linux", "goog:chromeOptions": {"binary": "/usr/bin/google-chrome"}}'
+testmvnshannon-chrome-2   | max-sessions = 1
+testmvnshannon-chrome-2   |     
+testmvnshannon-chrome-1   | 2024-07-24 05:39:06,717 INFO spawned: 'xvfb' with pid 10
+testmvnshannon-chrome-1   | 2024-07-24 05:39:06,723 INFO spawned: 'vnc' with pid 11
+testmvnshannon-chrome-2   | Starting Selenium Grid Node...
+testmvnshannon-chrome-1   | 2024-07-24 05:39:06,749 INFO spawned: 'novnc' with pid 13
+testmvnshannon-edge-3     | Appending Selenium options: --session-timeout 300
+testmvnshannon-edge-3     | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-edge-3     | Generating Selenium Config
+testmvnshannon-edge-3     | Configuring server...
+testmvnshannon-edge-3     | Setting up SE_NODE_HOST...
+testmvnshannon-edge-3     | Setting up SE_NODE_PORT...
+testmvnshannon-edge-3     | Setting up SE_NODE_GRID_URL...
+testmvnshannon-chrome-1   | 2024-07-24 05:39:06,782 INFO spawned: 'selenium-node' with pid 16
+testmvnshannon-chrome-1   | 2024-07-24 05:39:06,823 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-edge-3     | Tracing is disabled
+testmvnshannon-edge-3     | Selenium Grid Node configuration: 
+testmvnshannon-edge-3     | [events]
+testmvnshannon-edge-3     | publish = "tcp://selenium-hub:4442"
+testmvnshannon-edge-3     | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-edge-3     | 
+testmvnshannon-edge-3     | [node]
+testmvnshannon-edge-3     | session-timeout = "300"
+testmvnshannon-edge-3     | override-max-sessions = false
+testmvnshannon-edge-3     | detect-drivers = false
+testmvnshannon-edge-3     | drain-after-session-count = 0
+testmvnshannon-edge-3     | max-sessions = 1
+testmvnshannon-edge-3     | 
+testmvnshannon-edge-3     | [[node.driver-configuration]]
+testmvnshannon-edge-3     | display-name = "MicrosoftEdge"
+testmvnshannon-edge-3     | stereotype = '{"browserName": "MicrosoftEdge", "browserVersion": "128.0", "platformName": "Linux", "ms:edgeOptions": {"binary": "/usr/bin/microsoft-edge"}}'
+testmvnshannon-edge-3     | max-sessions = 1
+testmvnshannon-edge-3     |     
+testmvnshannon-edge-3     | Starting Selenium Grid Node...
+testmvnshannon-edge-4     | 2024-07-24 05:39:06,926 INFO spawned: 'xvfb' with pid 8
+testmvnshannon-edge-4     | 2024-07-24 05:39:06,931 INFO spawned: 'vnc' with pid 9
+testmvnshannon-edge-4     | 2024-07-24 05:39:06,937 INFO spawned: 'novnc' with pid 10
+testmvnshannon-firefox-1  | 05:39:06.957 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-firefox-1  | 05:39:07.011 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-edge-4     | 2024-07-24 05:39:07,031 INFO spawned: 'selenium-node' with pid 14
+testmvnshannon-edge-4     | 2024-07-24 05:39:07,053 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-edge-2     | 05:39:07.053 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-chrome-3   | 2024-07-24 05:39:07,085 INFO Included extra file "/etc/supervisor/conf.d/chrome-cleanup.conf" during parsing
+testmvnshannon-chrome-3   | 2024-07-24 05:39:07,085 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-chrome-3   | 2024-07-24 05:39:07,108 INFO RPC interface 'supervisor' initialized
+testmvnshannon-chrome-3   | 2024-07-24 05:39:07,108 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-chrome-3   | 2024-07-24 05:39:07,121 INFO supervisord started with pid 8
+testmvnshannon-edge-2     | 05:39:07.114 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-chrome-2   | 2024-07-24 05:39:07,243 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:07,244 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:07,245 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-1     | 2024-07-24 05:39:07,267 INFO Included extra file "/etc/supervisor/conf.d/edge-cleanup.conf" during parsing
+testmvnshannon-edge-1     | 2024-07-24 05:39:07,267 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-edge-1     | 2024-07-24 05:39:07,285 INFO RPC interface 'supervisor' initialized
+testmvnshannon-edge-1     | 2024-07-24 05:39:07,285 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-edge-1     | 2024-07-24 05:39:07,301 INFO supervisord started with pid 8
+testmvnshannon-edge-3     | 2024-07-24 05:39:07,358 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-3     | 2024-07-24 05:39:07,359 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-3     | 2024-07-24 05:39:07,359 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-4   | 05:39:07.487 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-edge-4     | Appending Selenium options: --session-timeout 300
+testmvnshannon-edge-4     | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-edge-4     | Generating Selenium Config
+testmvnshannon-chrome-4   | 05:39:07.547 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-chrome-1   | Appending Selenium options: --session-timeout 300
+testmvnshannon-chrome-1   | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-chrome-1   | Generating Selenium Config
+testmvnshannon-chrome-1   | Configuring server...
+testmvnshannon-chrome-1   | Setting up SE_NODE_HOST...
+testmvnshannon-edge-4     | Configuring server...
+testmvnshannon-chrome-1   | Setting up SE_NODE_PORT...
+testmvnshannon-edge-4     | Setting up SE_NODE_HOST...
+testmvnshannon-chrome-1   | Setting up SE_NODE_GRID_URL...
+testmvnshannon-edge-4     | Setting up SE_NODE_PORT...
+testmvnshannon-edge-4     | Setting up SE_NODE_GRID_URL...
+selenium-hub              | 05:39:07.624 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-edge-4     | Tracing is disabled
+testmvnshannon-edge-4     | Selenium Grid Node configuration: 
+testmvnshannon-edge-4     | [events]
+testmvnshannon-edge-4     | publish = "tcp://selenium-hub:4442"
+testmvnshannon-edge-4     | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-edge-4     | 
+testmvnshannon-edge-4     | [node]
+testmvnshannon-edge-4     | session-timeout = "300"
+testmvnshannon-edge-4     | override-max-sessions = false
+testmvnshannon-edge-4     | detect-drivers = false
+testmvnshannon-edge-4     | drain-after-session-count = 0
+testmvnshannon-edge-4     | max-sessions = 1
+testmvnshannon-edge-4     | 
+testmvnshannon-edge-4     | [[node.driver-configuration]]
+testmvnshannon-edge-4     | display-name = "MicrosoftEdge"
+testmvnshannon-edge-4     | stereotype = '{"browserName": "MicrosoftEdge", "browserVersion": "128.0", "platformName": "Linux", "ms:edgeOptions": {"binary": "/usr/bin/microsoft-edge"}}'
+testmvnshannon-edge-4     | max-sessions = 1
+testmvnshannon-edge-4     |     
+testmvnshannon-edge-4     | Starting Selenium Grid Node...
+testmvnshannon-chrome-1   | Tracing is disabled
+testmvnshannon-chrome-1   | Selenium Grid Node configuration: 
+testmvnshannon-chrome-1   | 2024-07-24 05:39:07,795 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-1   | 2024-07-24 05:39:07,802 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-1   | 2024-07-24 05:39:07,802 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-1   | [events]
+testmvnshannon-chrome-1   | publish = "tcp://selenium-hub:4442"
+testmvnshannon-chrome-1   | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-chrome-1   | 
+testmvnshannon-chrome-1   | [node]
+testmvnshannon-chrome-1   | session-timeout = "300"
+testmvnshannon-chrome-1   | override-max-sessions = false
+testmvnshannon-chrome-1   | detect-drivers = false
+testmvnshannon-chrome-1   | drain-after-session-count = 0
+testmvnshannon-chrome-1   | max-sessions = 1
+testmvnshannon-chrome-1   | 
+testmvnshannon-chrome-1   | [[node.driver-configuration]]
+testmvnshannon-chrome-1   | display-name = "chrome"
+testmvnshannon-chrome-1   | stereotype = '{"browserName": "chrome", "browserVersion": "128.0", "platformName": "Linux", "goog:chromeOptions": {"binary": "/usr/bin/google-chrome"}}'
+testmvnshannon-chrome-1   | max-sessions = 1
+testmvnshannon-chrome-1   |     
+testmvnshannon-chrome-1   | Starting Selenium Grid Node...
+testmvnshannon-firefox-1  | 05:39:07.863 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-edge-2     | 05:39:07.993 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-3   | 2024-07-24 05:39:08,125 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-chrome-3   | 2024-07-24 05:39:08,130 INFO spawned: 'vnc' with pid 10
+testmvnshannon-chrome-3   | 2024-07-24 05:39:08,133 INFO spawned: 'novnc' with pid 11
+testmvnshannon-chrome-3   | 2024-07-24 05:39:08,173 INFO spawned: 'selenium-node' with pid 19
+testmvnshannon-chrome-3   | 2024-07-24 05:39:08,233 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-edge-4     | 2024-07-24 05:39:08,277 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-4     | 2024-07-24 05:39:08,278 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-4     | 2024-07-24 05:39:08,278 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-1     | 2024-07-24 05:39:08,307 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-edge-1     | 2024-07-24 05:39:08,311 INFO spawned: 'vnc' with pid 10
+testmvnshannon-edge-1     | 2024-07-24 05:39:08,314 INFO spawned: 'novnc' with pid 11
+testmvnshannon-edge-1     | 2024-07-24 05:39:08,318 INFO spawned: 'selenium-node' with pid 12
+testmvnshannon-firefox-1  | 05:39:08.338 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-2     | 05:39:08.381 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-1     | 2024-07-24 05:39:08,405 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-chrome-4   | 05:39:08.634 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-5   | 2024-07-24 05:39:08,726 INFO Included extra file "/etc/supervisor/conf.d/chrome-cleanup.conf" during parsing
+testmvnshannon-chrome-5   | 2024-07-24 05:39:08,732 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-chrome-5   | 2024-07-24 05:39:08,743 INFO RPC interface 'supervisor' initialized
+testmvnshannon-chrome-5   | 2024-07-24 05:39:08,753 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-chrome-5   | 2024-07-24 05:39:08,760 INFO supervisord started with pid 8
+testmvnshannon-edge-5     | 2024-07-24 05:39:08,836 INFO Included extra file "/etc/supervisor/conf.d/edge-cleanup.conf" during parsing
+testmvnshannon-edge-5     | 2024-07-24 05:39:08,836 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+testmvnshannon-edge-5     | 2024-07-24 05:39:08,850 INFO RPC interface 'supervisor' initialized
+testmvnshannon-edge-5     | 2024-07-24 05:39:08,851 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+testmvnshannon-edge-5     | 2024-07-24 05:39:08,857 INFO supervisord started with pid 8
+testmvnshannon-chrome-4   | 05:39:09.004 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-chrome-3   | Appending Selenium options: --session-timeout 300
+testmvnshannon-chrome-3   | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-chrome-3   | Generating Selenium Config
+testmvnshannon-chrome-3   | Configuring server...
+testmvnshannon-chrome-3   | Setting up SE_NODE_HOST...
+testmvnshannon-chrome-3   | Setting up SE_NODE_PORT...
+testmvnshannon-chrome-3   | Setting up SE_NODE_GRID_URL...
+testmvnshannon-chrome-3   | 2024-07-24 05:39:09,130 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-3   | 2024-07-24 05:39:09,131 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-3   | 2024-07-24 05:39:09,131 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-3   | Tracing is disabled
+testmvnshannon-chrome-3   | Selenium Grid Node configuration: 
+testmvnshannon-edge-1     | Appending Selenium options: --session-timeout 300
+testmvnshannon-edge-1     | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-chrome-3   | [events]
+testmvnshannon-edge-1     | Generating Selenium Config
+testmvnshannon-chrome-3   | publish = "tcp://selenium-hub:4442"
+testmvnshannon-chrome-3   | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-chrome-3   | 
+testmvnshannon-chrome-3   | [node]
+testmvnshannon-chrome-3   | session-timeout = "300"
+testmvnshannon-chrome-3   | override-max-sessions = false
+testmvnshannon-chrome-3   | detect-drivers = false
+testmvnshannon-chrome-3   | drain-after-session-count = 0
+testmvnshannon-chrome-3   | max-sessions = 1
+testmvnshannon-chrome-3   | 
+testmvnshannon-chrome-3   | [[node.driver-configuration]]
+testmvnshannon-chrome-3   | display-name = "chrome"
+testmvnshannon-chrome-3   | stereotype = '{"browserName": "chrome", "browserVersion": "128.0", "platformName": "Linux", "goog:chromeOptions": {"binary": "/usr/bin/google-chrome"}}'
+testmvnshannon-chrome-3   | max-sessions = 1
+testmvnshannon-chrome-3   |     
+testmvnshannon-chrome-3   | Starting Selenium Grid Node...
+testmvnshannon-edge-1     | Configuring server...
+testmvnshannon-edge-1     | Setting up SE_NODE_HOST...
+testmvnshannon-edge-1     | Setting up SE_NODE_PORT...
+testmvnshannon-edge-1     | Setting up SE_NODE_GRID_URL...
+testmvnshannon-edge-1     | Tracing is disabled
+testmvnshannon-edge-1     | Selenium Grid Node configuration: 
+testmvnshannon-edge-1     | [events]
+testmvnshannon-edge-1     | publish = "tcp://selenium-hub:4442"
+testmvnshannon-edge-1     | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-edge-1     | 
+testmvnshannon-edge-1     | [node]
+testmvnshannon-edge-1     | session-timeout = "300"
+testmvnshannon-edge-1     | override-max-sessions = false
+testmvnshannon-edge-1     | detect-drivers = false
+testmvnshannon-edge-1     | drain-after-session-count = 0
+testmvnshannon-edge-1     | max-sessions = 1
+testmvnshannon-edge-1     | 
+testmvnshannon-edge-1     | [[node.driver-configuration]]
+testmvnshannon-edge-1     | display-name = "MicrosoftEdge"
+testmvnshannon-edge-1     | stereotype = '{"browserName": "MicrosoftEdge", "browserVersion": "128.0", "platformName": "Linux", "ms:edgeOptions": {"binary": "/usr/bin/microsoft-edge"}}'
+testmvnshannon-edge-1     | max-sessions = 1
+testmvnshannon-edge-1     |     
+testmvnshannon-edge-1     | Starting Selenium Grid Node...
+testmvnshannon-firefox-1  | 05:39:09.344 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-edge-1     | 2024-07-24 05:39:09,349 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-1     | 2024-07-24 05:39:09,350 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-1     | 2024-07-24 05:39:09,350 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-2     | 05:39:09.384 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-chrome-2   | 05:39:09.400 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-chrome-2   | 05:39:09.435 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-edge-3     | 05:39:09.657 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-edge-3     | 05:39:09.694 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-firefox-1  | 05:39:09.760 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.3:5555
+testmvnshannon-chrome-5   | 2024-07-24 05:39:09,763 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-chrome-5   | 2024-07-24 05:39:09,766 INFO spawned: 'vnc' with pid 10
+testmvnshannon-chrome-5   | 2024-07-24 05:39:09,769 INFO spawned: 'novnc' with pid 11
+testmvnshannon-chrome-5   | 2024-07-24 05:39:09,772 INFO spawned: 'selenium-node' with pid 12
+testmvnshannon-chrome-5   | 2024-07-24 05:39:09,810 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-firefox-1  | 05:39:09.819 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-edge-5     | 2024-07-24 05:39:09,865 INFO spawned: 'xvfb' with pid 9
+testmvnshannon-edge-5     | 2024-07-24 05:39:09,867 INFO spawned: 'vnc' with pid 10
+testmvnshannon-edge-5     | 2024-07-24 05:39:09,872 INFO spawned: 'novnc' with pid 11
+testmvnshannon-edge-5     | 2024-07-24 05:39:09,878 INFO spawned: 'selenium-node' with pid 12
+testmvnshannon-edge-5     | 2024-07-24 05:39:09,887 INFO success: selenium-node entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+testmvnshannon-chrome-1   | 05:39:09.891 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-chrome-1   | 05:39:09.923 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-chrome-2   | 05:39:09.945 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-edge-2     | 05:39:09.995 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.5:5555
+testmvnshannon-edge-4     | 05:39:10.017 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-chrome-4   | 05:39:10.024 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-edge-4     | 05:39:10.040 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-edge-2     | 05:39:10.086 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-firefox-1  | 05:39:10.153 INFO [NodeOptions.report] - Adding firefox for {"browserName": "firefox","browserVersion": "130.0","moz:firefoxOptions": {"binary": "\u002fusr\u002fbin\u002ffirefox"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-3     | 05:39:10.165 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-2   | 05:39:10.170 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-2     | 05:39:10.306 INFO [NodeOptions.report] - Adding MicrosoftEdge for {"browserName": "MicrosoftEdge","browserVersion": "128.0","ms:edgeOptions": {"binary": "\u002fusr\u002fbin\u002fmicrosoft-edge"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-3     | 05:39:10.296 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-firefox-1  | 05:39:10.318 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-5   | Appending Selenium options: --session-timeout 300
+testmvnshannon-chrome-5   | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-chrome-5   | Generating Selenium Config
+testmvnshannon-chrome-1   | 05:39:10.376 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-5   | Configuring server...
+testmvnshannon-chrome-5   | Setting up SE_NODE_HOST...
+testmvnshannon-chrome-5   | Setting up SE_NODE_PORT...
+testmvnshannon-chrome-5   | Setting up SE_NODE_GRID_URL...
+testmvnshannon-edge-2     | 05:39:10.407 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-5   | Tracing is disabled
+testmvnshannon-chrome-5   | Selenium Grid Node configuration: 
+testmvnshannon-chrome-5   | [events]
+testmvnshannon-chrome-5   | publish = "tcp://selenium-hub:4442"
+testmvnshannon-chrome-5   | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-chrome-5   | 
+testmvnshannon-chrome-5   | [node]
+testmvnshannon-chrome-5   | session-timeout = "300"
+testmvnshannon-chrome-5   | override-max-sessions = false
+testmvnshannon-chrome-5   | detect-drivers = false
+testmvnshannon-chrome-5   | drain-after-session-count = 0
+testmvnshannon-chrome-5   | max-sessions = 1
+testmvnshannon-chrome-5   | 
+testmvnshannon-chrome-5   | [[node.driver-configuration]]
+testmvnshannon-chrome-5   | display-name = "chrome"
+testmvnshannon-chrome-5   | stereotype = '{"browserName": "chrome", "browserVersion": "128.0", "platformName": "Linux", "goog:chromeOptions": {"binary": "/usr/bin/google-chrome"}}'
+testmvnshannon-chrome-5   | max-sessions = 1
+testmvnshannon-chrome-5   |     
+testmvnshannon-chrome-5   | Starting Selenium Grid Node...
+testmvnshannon-edge-5     | Appending Selenium options: --session-timeout 300
+testmvnshannon-edge-5     | Appending Selenium options: --heartbeat-period 30
+testmvnshannon-edge-5     | Generating Selenium Config
+testmvnshannon-chrome-4   | 05:39:10.524 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.4:5555
+testmvnshannon-edge-4     | 05:39:10.531 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-edge-5     | Configuring server...
+testmvnshannon-edge-5     | Setting up SE_NODE_HOST...
+testmvnshannon-edge-5     | Setting up SE_NODE_PORT...
+testmvnshannon-edge-5     | Setting up SE_NODE_GRID_URL...
+testmvnshannon-edge-5     | Tracing is disabled
+testmvnshannon-edge-5     | Selenium Grid Node configuration: 
+testmvnshannon-edge-5     | [events]
+testmvnshannon-edge-5     | publish = "tcp://selenium-hub:4442"
+testmvnshannon-edge-5     | subscribe = "tcp://selenium-hub:4443"
+testmvnshannon-edge-5     | 
+testmvnshannon-edge-5     | [node]
+testmvnshannon-edge-5     | session-timeout = "300"
+testmvnshannon-edge-5     | override-max-sessions = false
+testmvnshannon-edge-5     | detect-drivers = false
+testmvnshannon-edge-5     | drain-after-session-count = 0
+testmvnshannon-edge-5     | max-sessions = 1
+testmvnshannon-edge-5     | 
+testmvnshannon-edge-5     | [[node.driver-configuration]]
+testmvnshannon-edge-5     | display-name = "MicrosoftEdge"
+testmvnshannon-edge-5     | stereotype = '{"browserName": "MicrosoftEdge", "browserVersion": "128.0", "platformName": "Linux", "ms:edgeOptions": {"binary": "/usr/bin/microsoft-edge"}}'
+testmvnshannon-edge-5     | max-sessions = 1
+testmvnshannon-edge-5     |     
+testmvnshannon-edge-5     | Starting Selenium Grid Node...
+testmvnshannon-chrome-4   | 05:39:10.601 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-chrome-1   | 05:39:10.769 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-4     | 05:39:10.857 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-5     | 2024-07-24 05:39:10,868 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-5   | 2024-07-24 05:39:10,869 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-5   | 2024-07-24 05:39:10,870 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-5   | 2024-07-24 05:39:10,870 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-5     | 2024-07-24 05:39:10,871 INFO success: vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-edge-5     | 2024-07-24 05:39:10,872 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+testmvnshannon-chrome-4   | 05:39:11.001 INFO [NodeOptions.report] - Adding chrome for {"browserName": "chrome","browserVersion": "128.0","goog:chromeOptions": {"binary": "\u002fusr\u002fbin\u002fgoogle-chrome"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-chrome-4   | 05:39:11.179 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-2   | 05:39:11.205 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-chrome-3   | 05:39:11.208 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-chrome-3   | 05:39:11.231 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-firefox-1  | 05:39:11.287 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.3:5555
+testmvnshannon-firefox-1  | 05:39:11.294 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.3:5555
+testmvnshannon-edge-3     | 05:39:11.310 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-edge-2     | 05:39:11.321 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.5:5555
+testmvnshannon-edge-2     | 05:39:11.329 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.5:5555
+testmvnshannon-firefox-1  | 05:39:11.370 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-edge-2     | 05:39:11.412 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-edge-1     | 05:39:11.398 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-edge-1     | 05:39:11.529 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-chrome-1   | 05:39:11.773 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-chrome-2   | 05:39:11.820 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.6:5555
+testmvnshannon-edge-4     | 05:39:11.879 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-edge-3     | 05:39:12.074 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.7:5555
+testmvnshannon-chrome-2   | 05:39:12.150 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-chrome-3   | 05:39:12.164 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+selenium-hub              | 05:39:12.164 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-3     | 05:39:12.317 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-chrome-3   | 05:39:12.575 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-chrome-4   | 05:39:12.657 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.4:5555
+testmvnshannon-chrome-4   | 05:39:12.660 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.4:5555
+testmvnshannon-edge-4     | 05:39:12.702 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.9:5555
+testmvnshannon-chrome-1   | 05:39:12.719 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.8:5555
+testmvnshannon-chrome-2   | 05:39:12.753 INFO [NodeOptions.report] - Adding chrome for {"browserName": "chrome","browserVersion": "128.0","goog:chromeOptions": {"binary": "\u002fusr\u002fbin\u002fgoogle-chrome"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-chrome-4   | 05:39:12.765 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-edge-3     | 05:39:12.778 INFO [NodeOptions.report] - Adding MicrosoftEdge for {"browserName": "MicrosoftEdge","browserVersion": "128.0","ms:edgeOptions": {"binary": "\u002fusr\u002fbin\u002fmicrosoft-edge"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-1     | 05:39:12.827 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-2   | 05:39:12.855 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-4     | 05:39:12.861 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-edge-3     | 05:39:12.921 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-1   | 05:39:12.929 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+selenium-hub              | 05:39:13.198 INFO [Hub.execute] - Started Selenium Hub 4.22.0 (revision c5f3146703): http://172.19.0.2:4444
+testmvnshannon-chrome-1   | 05:39:13.246 INFO [NodeOptions.report] - Adding chrome for {"browserName": "chrome","browserVersion": "128.0","goog:chromeOptions": {"binary": "\u002fusr\u002fbin\u002fgoogle-chrome"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-4     | 05:39:13.254 INFO [NodeOptions.report] - Adding MicrosoftEdge for {"browserName": "MicrosoftEdge","browserVersion": "128.0","ms:edgeOptions": {"binary": "\u002fusr\u002fbin\u002fmicrosoft-edge"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-1     | 05:39:13.292 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-4     | 05:39:13.335 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-1   | 05:39:13.368 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-2   | 05:39:13.479 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.6:5555
+testmvnshannon-chrome-2   | 05:39:13.489 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.6:5555
+testmvnshannon-chrome-2   | 05:39:13.541 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-chrome-3   | 05:39:13.589 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-chrome-5   | 05:39:13.699 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-chrome-5   | 05:39:13.724 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-edge-3     | 05:39:13.755 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.7:5555
+testmvnshannon-edge-3     | 05:39:13.765 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.7:5555
+testmvnshannon-edge-5     | 05:39:13.796 INFO [LoggingOptions.configureLogEncoding] - Using the system default encoding
+testmvnshannon-edge-5     | 05:39:13.822 INFO [OpenTelemetryTracer.createTracer] - Using OpenTelemetry for tracing
+testmvnshannon-edge-4     | 05:39:13.828 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.9:5555
+testmvnshannon-edge-3     | 05:39:13.827 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-edge-4     | 05:39:13.832 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.9:5555
+testmvnshannon-edge-4     | 05:39:13.873 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-chrome-1   | 05:39:13.953 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.8:5555
+testmvnshannon-chrome-1   | 05:39:13.958 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.8:5555
+testmvnshannon-chrome-3   | 05:39:14.001 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.10:5555
+testmvnshannon-chrome-1   | 05:39:14.008 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-chrome-3   | 05:39:14.044 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-chrome-5   | 05:39:14.097 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-3   | 05:39:14.162 INFO [NodeOptions.report] - Adding chrome for {"browserName": "chrome","browserVersion": "128.0","goog:chromeOptions": {"binary": "\u002fusr\u002fbin\u002fgoogle-chrome"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-5     | 05:39:14.174 INFO [UnboundZmqEventBus.<init>] - Connecting to tcp://selenium-hub:4442 and tcp://selenium-hub:4443
+testmvnshannon-chrome-5   | 05:39:14.185 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-chrome-3   | 05:39:14.192 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-5     | 05:39:14.267 INFO [UnboundZmqEventBus.<init>] - Sockets created
+testmvnshannon-edge-1     | 05:39:14.298 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-chrome-3   | 05:39:14.411 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.10:5555
+testmvnshannon-chrome-3   | 05:39:14.413 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.10:5555
+testmvnshannon-edge-1     | 05:39:14.422 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.11:5555
+testmvnshannon-chrome-3   | 05:39:14.423 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-edge-1     | 05:39:14.443 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+selenium-hub              | 05:39:14.448 INFO [GridModel.setAvailability] - Switching Node c8e996e5-d6a7-45f0-9160-8ca653d0d531 (uri: http://172.19.0.3:5555) from DOWN to UP
+selenium-hub              | 05:39:14.448 INFO [LocalDistributor.add] - Added node c8e996e5-d6a7-45f0-9160-8ca653d0d531 at http://172.19.0.3:5555. Health check every 120s
+selenium-hub              | 05:39:14.451 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-firefox-1  | 05:39:14.478 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-edge-1     | 05:39:14.507 INFO [NodeOptions.report] - Adding MicrosoftEdge for {"browserName": "MicrosoftEdge","browserVersion": "128.0","ms:edgeOptions": {"binary": "\u002fusr\u002fbin\u002fmicrosoft-edge"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-1     | 05:39:14.529 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+selenium-hub              | 05:39:14.584 INFO [GridModel.setAvailability] - Switching Node 57d0cf27-215e-44fe-8983-bd7efd14bdcb (uri: http://172.19.0.5:5555) from DOWN to UP
+selenium-hub              | 05:39:14.584 INFO [LocalDistributor.add] - Added node 57d0cf27-215e-44fe-8983-bd7efd14bdcb at http://172.19.0.5:5555. Health check every 120s
+selenium-hub              | 05:39:14.587 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-2     | 05:39:14.612 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+selenium-hub              | 05:39:14.705 INFO [GridModel.setAvailability] - Switching Node a55fc284-3b0a-4e9e-a948-d1981f7aa633 (uri: http://172.19.0.4:5555) from DOWN to UP
+selenium-hub              | 05:39:14.706 INFO [LocalDistributor.add] - Added node a55fc284-3b0a-4e9e-a948-d1981f7aa633 at http://172.19.0.4:5555. Health check every 120s
+selenium-hub              | 05:39:14.709 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-4   | 05:39:14.747 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-edge-1     | 05:39:14.757 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.11:5555
+testmvnshannon-edge-1     | 05:39:14.759 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.11:5555
+testmvnshannon-edge-1     | 05:39:14.777 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+selenium-hub              | 05:39:14.914 INFO [GridModel.setAvailability] - Switching Node 592cd236-f6fb-45dd-8848-ac7251a3cf7a (uri: http://172.19.0.6:5555) from DOWN to UP
+selenium-hub              | 05:39:14.915 INFO [LocalDistributor.add] - Added node 592cd236-f6fb-45dd-8848-ac7251a3cf7a at http://172.19.0.6:5555. Health check every 120s
+selenium-hub              | 05:39:14.917 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-2   | 05:39:14.926 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+selenium-hub              | 05:39:14.957 INFO [LocalDistributor.newSession] - Session request received by the Distributor: 
+selenium-hub              |  [Capabilities {browserName: chrome}]
+selenium-hub              | 05:39:15.072 INFO [GridModel.setAvailability] - Switching Node 1d562cb6-9a99-42fc-8ee5-5ccfa0a6da6f (uri: http://172.19.0.7:5555) from DOWN to UP
+selenium-hub              | 05:39:15.072 INFO [LocalDistributor.add] - Added node 1d562cb6-9a99-42fc-8ee5-5ccfa0a6da6f at http://172.19.0.7:5555. Health check every 120s
+selenium-hub              | 05:39:15.074 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-3     | 05:39:15.077 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-chrome-5   | 05:39:15.192 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+selenium-hub              | 05:39:15.212 INFO [GridModel.setAvailability] - Switching Node 971de5ff-4cc2-4f04-88dc-d52a7d0bfbae (uri: http://172.19.0.9:5555) from DOWN to UP
+selenium-hub              | 05:39:15.212 INFO [LocalDistributor.add] - Added node 971de5ff-4cc2-4f04-88dc-d52a7d0bfbae at http://172.19.0.9:5555. Health check every 120s
+selenium-hub              | 05:39:15.214 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-4     | 05:39:15.219 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-edge-5     | 05:39:15.272 INFO [UnboundZmqEventBus.<init>] - Event bus ready
+testmvnshannon-chrome-5   | 05:39:15.384 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.12:5555
+selenium-hub              | 05:39:15.417 INFO [GridModel.setAvailability] - Switching Node 6e5fc210-464f-407b-a643-3d374f61a0c8 (uri: http://172.19.0.8:5555) from DOWN to UP
+selenium-hub              | 05:39:15.417 INFO [LocalDistributor.add] - Added node 6e5fc210-464f-407b-a643-3d374f61a0c8 at http://172.19.0.8:5555. Health check every 120s
+selenium-hub              | 05:39:15.422 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-5   | 05:39:15.422 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-chrome-1   | 05:39:15.442 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-edge-5     | 05:39:15.454 INFO [NodeServer.createHandlers] - Reporting self as: http://172.19.0.13:5555
+testmvnshannon-edge-5     | 05:39:15.490 INFO [NodeOptions.getSessionFactories] - Detected 8 available processors
+testmvnshannon-chrome-5   | 05:39:15.537 INFO [NodeOptions.report] - Adding chrome for {"browserName": "chrome","browserVersion": "128.0","goog:chromeOptions": {"binary": "\u002fusr\u002fbin\u002fgoogle-chrome"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-chrome-5   | 05:39:15.577 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-5     | 05:39:15.582 INFO [NodeOptions.report] - Adding MicrosoftEdge for {"browserName": "MicrosoftEdge","browserVersion": "128.0","ms:edgeOptions": {"binary": "\u002fusr\u002fbin\u002fmicrosoft-edge"},"platformName": "linux","se:noVncPort": 7900,"se:vncEnabled": true} 1 times
+testmvnshannon-edge-5     | 05:39:15.624 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+selenium-hub              | 05:39:15.633 INFO [GridModel.setAvailability] - Switching Node ec51a2b0-a376-4fe7-bf7c-c1ee68a749e4 (uri: http://172.19.0.10:5555) from DOWN to UP
+selenium-hub              | 05:39:15.634 INFO [LocalDistributor.add] - Added node ec51a2b0-a376-4fe7-bf7c-c1ee68a749e4 at http://172.19.0.10:5555. Health check every 120s
+testmvnshannon-chrome-3   | 05:39:15.642 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+selenium-hub              | 05:39:15.647 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+selenium-hub              | 05:39:15.875 INFO [GridModel.setAvailability] - Switching Node 61cb9c48-2f4c-472c-88d9-e1129e7d0fb6 (uri: http://172.19.0.11:5555) from DOWN to UP
+selenium-hub              | 05:39:15.876 INFO [LocalDistributor.add] - Added node 61cb9c48-2f4c-472c-88d9-e1129e7d0fb6 at http://172.19.0.11:5555. Health check every 120s
+testmvnshannon-edge-1     | 05:39:15.888 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-chrome-5   | 05:39:15.977 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.12:5555
+testmvnshannon-chrome-5   | 05:39:16.002 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.12:5555
+testmvnshannon-chrome-5   | 05:39:16.032 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+testmvnshannon-edge-5     | 05:39:16.041 INFO [NodeServer$1.start] - Starting registration process for Node http://172.19.0.13:5555
+selenium-hub              | 05:39:16.051 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-edge-5     | 05:39:16.053 INFO [NodeServer.execute] - Started Selenium node 4.22.0 (revision c5f3146703): http://172.19.0.13:5555
+testmvnshannon-edge-5     | 05:39:16.094 INFO [NodeServer$1.lambda$start$1] - Sending registration event...
+selenium-hub              | 05:39:16.280 INFO [GridModel.setAvailability] - Switching Node 7dd49f60-27af-4e85-a2f2-830ea878034e (uri: http://172.19.0.12:5555) from DOWN to UP
+selenium-hub              | 05:39:16.281 INFO [LocalDistributor.add] - Added node 7dd49f60-27af-4e85-a2f2-830ea878034e at http://172.19.0.12:5555. Health check every 120s
+selenium-hub              | 05:39:16.284 INFO [Node.<init>] - Binding additional locator mechanisms: relative
+testmvnshannon-chrome-5   | 05:39:16.297 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+selenium-hub              | 05:39:16.455 INFO [GridModel.setAvailability] - Switching Node d3f2e285-0a61-42ec-b251-4f973fe37407 (uri: http://172.19.0.13:5555) from DOWN to UP
+selenium-hub              | 05:39:16.455 INFO [LocalDistributor.add] - Added node d3f2e285-0a61-42ec-b251-4f973fe37407 at http://172.19.0.13:5555. Health check every 120s
+testmvnshannon-edge-5     | 05:39:16.474 INFO [NodeServer.lambda$createHandlers$2] - Node has been added
+testmvnshannon-chrome-4   | 05:39:18.161 INFO [LocalNode.newSession] - Session created by the Node. Id: a0e77a98c6fd7908292b8b70701a273a, Caps: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6601.2, chrome: {chromedriverVersion: 128.0.6608.0 (bb5730abe94bc..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41089}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 128.0.6601.2, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+selenium-hub              | 05:39:18.182 INFO [LocalDistributor.newSession] - Session created by the Distributor. Id: a0e77a98c6fd7908292b8b70701a273a 
+selenium-hub              |  Caps: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6601.2, chrome: {chromedriverVersion: 128.0.6608.0 (bb5730abe94bc..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41089}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: {}, se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 128.0.6601.2, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+testmvnshannon-chrome-4   | 05:39:40.929 INFO [SessionSlot.stop] - Stopping session a0e77a98c6fd7908292b8b70701a273a
+selenium-hub              | 05:39:40.936 INFO [LocalSessionMap.lambda$new$0] - Deleted session from local Session Map, Id: a0e77a98c6fd7908292b8b70701a273a
+selenium-hub              | 05:39:40.936 INFO [GridModel.release] - Releasing slot for session id a0e77a98c6fd7908292b8b70701a273a
+testmvnshannon-firefox-1  | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-edge-5     | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-chrome-2   | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-chrome-4   | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-chrome-1   | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-edge-2     | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-chrome-3   | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-edge-3     | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-edge-4     | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-chrome-5   | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-edge-1     | Trapped SIGTERM/SIGINT/x so shutting down supervisord...
+testmvnshannon-edge-1     | 2024-07-24 05:39:43,921 WARN received SIGTERM indicating exit request
+testmvnshannon-edge-1     | 2024-07-24 05:39:43,921 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-chrome-4   | 2024-07-24 05:39:43,934 WARN received SIGTERM indicating exit request
+testmvnshannon-chrome-4   | 2024-07-24 05:39:43,934 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-chrome-2   | 2024-07-24 05:39:43,970 WARN received SIGTERM indicating exit request
+testmvnshannon-chrome-2   | 2024-07-24 05:39:43,970 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-edge-3     | 2024-07-24 05:39:44,112 WARN received SIGTERM indicating exit request
+testmvnshannon-edge-3     | 2024-07-24 05:39:44,113 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-edge-4     | 2024-07-24 05:39:44,256 WARN received SIGTERM indicating exit request
+testmvnshannon-edge-4     | 2024-07-24 05:39:44,257 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-chrome-5   | 2024-07-24 05:39:44,332 WARN received SIGTERM indicating exit request
+testmvnshannon-chrome-5   | 2024-07-24 05:39:44,332 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-chrome-1   | 2024-07-24 05:39:44,484 WARN received SIGTERM indicating exit request
+testmvnshannon-chrome-1   | 2024-07-24 05:39:44,484 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-edge-5     | 2024-07-24 05:39:44,516 WARN received SIGTERM indicating exit request
+testmvnshannon-edge-5     | 2024-07-24 05:39:44,517 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-firefox-1  | 2024-07-24 05:39:44,524 WARN received SIGTERM indicating exit request
+testmvnshannon-firefox-1  | 2024-07-24 05:39:44,525 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-edge-2     | 2024-07-24 05:39:44,655 WARN received SIGTERM indicating exit request
+testmvnshannon-edge-2     | 2024-07-24 05:39:44,655 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-chrome-3   | 2024-07-24 05:39:44,684 WARN received SIGTERM indicating exit request
+testmvnshannon-chrome-3   | 2024-07-24 05:39:44,684 INFO waiting for xvfb, vnc, novnc, selenium-node to die
+testmvnshannon-edge-1     | 2024-07-24 05:39:45,293 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:45,299 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:45,308 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-edge-3     | 2024-07-24 05:39:45,461 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-edge-4     | 2024-07-24 05:39:45,610 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-chrome-5   | 2024-07-24 05:39:45,712 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-chrome-1   | 2024-07-24 05:39:45,831 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-edge-5     | 2024-07-24 05:39:45,857 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-firefox-1  | 2024-07-24 05:39:45,880 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-edge-2     | 2024-07-24 05:39:45,983 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-chrome-3   | 2024-07-24 05:39:46,012 INFO stopped: selenium-node (terminated by SIGTERM)
+testmvnshannon-edge-1     | 2024-07-24 05:39:46,296 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:46,301 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:46,311 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-edge-3     | 2024-07-24 05:39:46,463 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-edge-4     | 2024-07-24 05:39:46,612 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-chrome-5   | 2024-07-24 05:39:46,714 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-chrome-1   | 2024-07-24 05:39:46,833 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-edge-5     | 2024-07-24 05:39:46,859 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-firefox-1  | 2024-07-24 05:39:46,882 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-edge-2     | 2024-07-24 05:39:46,984 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-chrome-3   | 2024-07-24 05:39:47,014 INFO stopped: novnc (terminated by SIGTERM)
+testmvnshannon-edge-1     | 2024-07-24 05:39:47,299 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-edge-1     | 2024-07-24 05:39:47,299 INFO waiting for xvfb to die
+testmvnshannon-chrome-4   | 2024-07-24 05:39:47,303 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:47,304 INFO waiting for xvfb to die
+testmvnshannon-chrome-2   | 2024-07-24 05:39:47,313 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:47,313 INFO waiting for xvfb to die
+testmvnshannon-edge-3     | 2024-07-24 05:39:47,465 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-edge-3     | 2024-07-24 05:39:47,466 INFO waiting for xvfb to die
+testmvnshannon-edge-4     | 2024-07-24 05:39:47,614 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-edge-4     | 2024-07-24 05:39:47,614 INFO waiting for xvfb to die
+testmvnshannon-chrome-5   | 2024-07-24 05:39:47,716 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-chrome-5   | 2024-07-24 05:39:47,716 INFO waiting for xvfb to die
+testmvnshannon-chrome-1   | 2024-07-24 05:39:47,835 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-chrome-1   | 2024-07-24 05:39:47,835 INFO waiting for xvfb to die
+testmvnshannon-edge-5     | 2024-07-24 05:39:47,861 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-edge-5     | 2024-07-24 05:39:47,862 INFO waiting for xvfb to die
+testmvnshannon-firefox-1  | 2024-07-24 05:39:47,884 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-firefox-1  | 2024-07-24 05:39:47,884 INFO waiting for xvfb to die
+testmvnshannon-edge-2     | 2024-07-24 05:39:47,987 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-edge-2     | 2024-07-24 05:39:47,987 INFO waiting for xvfb to die
+testmvnshannon-chrome-3   | 2024-07-24 05:39:48,016 INFO stopped: vnc (terminated by SIGTERM)
+testmvnshannon-chrome-3   | 2024-07-24 05:39:48,016 INFO waiting for xvfb to die
+testmvnshannon-edge-1     | 2024-07-24 05:39:48,302 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-chrome-4   | 2024-07-24 05:39:48,306 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-chrome-2   | 2024-07-24 05:39:48,315 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-chrome-2   | Shutdown complete
+testmvnshannon-edge-1     | Shutdown complete
+testmvnshannon-chrome-4   | Shutdown complete
+testmvnshannon-edge-3     | 2024-07-24 05:39:48,467 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-edge-3     | Shutdown complete
+testmvnshannon-edge-4     | 2024-07-24 05:39:48,616 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-edge-4     | Shutdown complete
+testmvnshannon-chrome-5   | 2024-07-24 05:39:48,718 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-chrome-5   | Shutdown complete
+testmvnshannon-chrome-1   | 2024-07-24 05:39:48,837 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-edge-5     | 2024-07-24 05:39:48,863 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-firefox-1  | 2024-07-24 05:39:48,886 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-chrome-1   | Shutdown complete
+testmvnshannon-edge-5     | Shutdown complete
+testmvnshannon-firefox-1  | Shutdown complete
+testmvnshannon-edge-2     | 2024-07-24 05:39:48,989 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-chrome-3   | 2024-07-24 05:39:49,018 INFO stopped: xvfb (terminated by SIGTERM)
+testmvnshannon-edge-2     | Shutdown complete
+testmvnshannon-chrome-3   | Shutdown complete
+testmvnshannon-chrome-4 exited with code 143
+testmvnshannon-chrome-2 exited with code 143
