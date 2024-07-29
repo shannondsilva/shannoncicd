@@ -123,3 +123,21 @@ Feature: To test my DBB framework
     Examples:
       | Checmical Formulae |
       | Mg(OH)2            |
+
+
+  @DemoTest
+  Scenario Outline: BatFile Runs
+    Given Demo test program
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
+
+
+  @StreamsAndLamda
+  Scenario Outline: StreamsAndLamda
+    Given Demo test StreamsAndLamda
+
+    Examples:
+      | Checmical Formulae |
+      | Mg(OH)2            |
